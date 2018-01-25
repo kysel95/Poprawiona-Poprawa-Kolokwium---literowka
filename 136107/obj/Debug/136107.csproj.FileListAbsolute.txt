@@ -1,0 +1,13 @@
+C:\Users\local\Desktop\Poprawa Kolokwium\Program\136107\bin\Debug\136107.exe.config
+C:\Users\local\Desktop\Poprawa Kolokwium\Program\136107\obj\Debug\136107.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Poprawa Kolokwium\Program\136107\bin\Debug\136107.exe
+C:\Users\local\Desktop\Poprawa Kolokwium\Program\136107\bin\Debug\136107.pdb
+C:\Users\local\Desktop\Poprawa Kolokwium\Program\136107\obj\Debug\136107.exe
+C:\Users\local\Desktop\Poprawa Kolokwium\Program\136107\obj\Debug\136107.pdb
+C:\Users\david\Downloads\Poprawa-kolokwium-master\Poprawa-kolokwium-master\136107\obj\Debug\136107.csprojResolveAssemblyReference.cache
+C:\Users\david\Downloads\Poprawa-kolokwium-master\Poprawa-kolokwium-master\136107\obj\Debug\136107.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\Poprawa-kolokwium-master\Poprawa-kolokwium-master\136107\obj\Debug\136107.exe
+C:\Users\david\Downloads\Poprawa-kolokwium-master\Poprawa-kolokwium-master\136107\obj\Debug\136107.pdb
+C:\Users\david\Downloads\Poprawa-kolokwium-master\Poprawa-kolokwium-master\136107\bin\Debug\136107.exe.config
+C:\Users\david\Downloads\Poprawa-kolokwium-master\Poprawa-kolokwium-master\136107\bin\Debug\136107.exe
+C:\Users\david\Downloads\Poprawa-kolokwium-master\Poprawa-kolokwium-master\136107\bin\Debug\136107.pdb

@@ -1,1 +1,1 @@
-# Poprawiona-Poprawa-Kolokwium---literowka
+# Poprawa-kolokwium
